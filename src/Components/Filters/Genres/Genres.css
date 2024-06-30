@@ -1,0 +1,5 @@
+.genres .genresList {
+    height: 200px;
+    flex-wrap: nowrap;
+    overflow-y: scroll;
+}

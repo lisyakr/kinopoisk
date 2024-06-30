@@ -1,0 +1,11 @@
+.input-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.MuiInputBase-root {
+    width: 60px;
+}
+.rating, .year {
+    margin-top: 30px;
+}

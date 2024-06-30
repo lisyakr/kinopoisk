@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    padding: 40px 100px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+} 
+.title {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}
+.title h1 {
+    color: rgba(0, 0, 0, 0.54);
+}
+.css-1o657us-MuiSvgIcon-root {
+    cursor: pointer;
+}
